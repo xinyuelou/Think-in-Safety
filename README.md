@@ -1,6 +1,6 @@
 # Think in Safety（TiS）
 
-[🌐Website](#) | [📖Paper](https://arxiv.org/abs/2505.06538) | [🤗Data](#) 
+[🌐Website](https://xinyuelou.github.io/Think-in-Safety/) | [📖Paper](https://arxiv.org/abs/2505.06538) | [🤗Data](https://huggingface.co/datasets/Holly301/Think-in-Safety) 
 
 **Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model**
 
@@ -14,7 +14,7 @@
 
 ## 📁 Data
 
-You can find the dataset in this repo or at [Huggingface](#) . Images can be downloaded from [Google Drive](https://drive.google.com/file/d/1UyApbDNNDEYghDer_196D-Tdx3cagXSo/view?usp=drive_link).  You will obtain a zip file(images.zip). Please unzip the images under ./images.
+You can find the dataset in this repo or at [Huggingface](https://huggingface.co/datasets/Holly301/Think-in-Safety) . Images can be downloaded from [Google Drive](https://drive.google.com/file/d/1UyApbDNNDEYghDer_196D-Tdx3cagXSo/view?usp=drive_link).  You will obtain a zip file(images.zip). Please unzip the images under ./images.
 
 
 ## 📬 Contact
