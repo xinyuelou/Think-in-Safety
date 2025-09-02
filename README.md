@@ -8,6 +8,7 @@
 
 ## 🔔 Updates
 
+- **🎉[2025/08/21]** Our paper has been accepted by EMNLP 2025!
 - **🚀[2025/05/10]** We released [arXiv](https://arxiv.org/abs/2505.06538) and [data](https://github.com/xinyuelou/Think-in-Safety) for TiS.
 
 ---
