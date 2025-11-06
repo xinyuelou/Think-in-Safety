@@ -15,7 +15,7 @@
 
 ## 📁 Data
 
-You can find the dataset in this repo or at [Huggingface](https://huggingface.co/datasets/Holly301/Think-in-Safety) . Images can be downloaded from [Google Drive](https://drive.google.com/file/d/1UyApbDNNDEYghDer_196D-Tdx3cagXSo/view?usp=drive_link). 
+You can find the dataset in this repo or at [Huggingface](https://huggingface.co/datasets/Holly301/Think-in-Safety) . Images can be downloaded from [Google Drive](https://drive.google.com/file/d/1UyApbDNNDEYghDer_196D-Tdx3cagXSo/view?usp=drive_link) or [Huggingface](https://huggingface.co/datasets/Holly301/Think-in-Safety). 
 If you choose Google Drive, please contact louxinyue@bjtu.edu.cn to obtain access. You will obtain a zip file(images.zip). Please unzip the images under ./images.
 
 
