@@ -2,7 +2,7 @@
 
 [🌐Website](https://xinyuelou.github.io/Think-in-Safety) | [📖Paper](https://aclanthology.org/2025.emnlp-main.261.pdf) | [🤗Data](https://huggingface.co/datasets/Holly301/Think-in-Safety) 
 
-The official released dataset of **Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model (SAC Highlight Award)**.
+The official released dataset of "Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model" (SAC Highlight Award).
 
 ---
 
