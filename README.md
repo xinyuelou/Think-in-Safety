@@ -1,8 +1,8 @@
 # Think in Safety（TiS）
 
-[🌐Website](https://xinyuelou.github.io/Think-in-Safety) | [📖Paper](https://arxiv.org/abs/2505.06538) | [🤗Data](https://huggingface.co/datasets/Holly301/Think-in-Safety) 
+[🌐Website](https://xinyuelou.github.io/Think-in-Safety) | [📖Paper](https://aclanthology.org/2025.emnlp-main.261.pdf) | [🤗Data](https://huggingface.co/datasets/Holly301/Think-in-Safety) 
 
-**Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model (SAC Highlight Award)**
+The official released dataset of **Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model (SAC Highlight Award)**.
 
 ---
 
