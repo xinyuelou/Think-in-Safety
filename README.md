@@ -2,7 +2,7 @@
 
 [🌐Website](https://xinyuelou.github.io/Think-in-Safety) | [📖Paper](https://arxiv.org/abs/2505.06538) | [🤗Data](https://huggingface.co/datasets/Holly301/Think-in-Safety) 
 
-**Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model**
+**Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model (SAC Highlight Award)**
 
 ---
 
@@ -25,9 +25,20 @@ If you choose Google Drive, please contact louxinyue@bjtu.edu.cn to obtain acces
 
 ## 👋 Citation
 ```bibtex
-@article{lou2025think,
-  title={Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model},
-  author={Lou, Xinyue and Li, You and Xu, Jinan and Shi, Xiangyu and Chen, Chi and Huang, Kaiyu},
-  journal={arXiv preprint arXiv:2505.06538},
-  year={2025}
+@inproceedings{lou-etal-2025-think,
+    title = "Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model",
+    author = "Lou, Xinyue  and
+      Li, You  and
+      Xu, Jinan  and
+      Shi, Xiangyu  and
+      Chen, Chi  and
+      Huang, Kaiyu",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.261/",
+    doi = "10.18653/v1/2025.emnlp-main.261",
+    pages = "5167--5186",
 }
